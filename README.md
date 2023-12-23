@@ -9,5 +9,5 @@ Python scripting
 Data Collection
 API integration
 Streamlit
-Data Management using MongoDB (Atlas) and SQL
+Data Management using MongoDB and SQL
 Plotly
