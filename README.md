@@ -10,6 +10,7 @@ Technologies Used:
 * API integration
 * Streamlit
 * Data Management using MongoDB and SQL
+* Pandas
 * Plotly
 
 Installation
