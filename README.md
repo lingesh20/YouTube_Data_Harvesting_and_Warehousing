@@ -5,12 +5,12 @@ This project involves creating a user-friendly Streamlit application that utiliz
 
 Technologies Used:
 
-Python scripting
-Data Collection
-API integration
-Streamlit
-Data Management using MongoDB and SQL
-Plotly
+*Python scripting
+*Data Collection
+*API integration
+*Streamlit
+*Data Management using MongoDB and SQL
+*Plotly
 
 Installation
 
