@@ -27,7 +27,7 @@ Features
 
 * Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
 * Store the retrieved data in a MongoDB database.
-* Option to check wheather the respective channel Data is exist or Not in MongoDb (Atlas).
+* Option to check wheather the respective channel Data is exist or Not in MongoDb.
 * Migrate the data to a MySQL data warehouse.
 * Analyze and visualize data using Streamlit and Plotly.
 * Perform queries on the MySQL data warehouse.
